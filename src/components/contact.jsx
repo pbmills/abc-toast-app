@@ -6,10 +6,10 @@ const contact = () => {
       <div className="md:grid grid-cols-2 ">
         <div className="py-8 h-full flex justify-center items-center ">
           <div className="w-9/12">
-            <div className="bg-white pb-6 mt-4 w-max">
+            <div className="bg-white pb-4 mt-4 w-max">
               <p className="ml-4 mr-10 text-black  text-4xl ">get in touch to</p>
             </div>
-            <div className="pb-6 mt-2 w-max" style={{ backgroundColor: '#FF6400' }}>
+            <div className="pb-4 mt-2 w-max" style={{ backgroundColor: '#FF6400' }}>
               <p className="ml-4 mr-10 text-white  text-4xl ">upgrade</p>
             </div>
           </div>
@@ -25,7 +25,7 @@ const contact = () => {
                 <div className="grid grid-cols-2 gap-2">
                   <input
                     type="text"
-                    class="border-0 px-3 py-3 rounded text-sm shadow w-full
+                    class="border-0 px-3 py-3  text-sm shadow w-full
                     bg-gray-600 placeholder-white text-gray-800 outline-none focus:bg-gray-500"
                     placeholder="Name"
                     style={{ transition: 'all 0.15s ease 0s', backgroundColor: '#3E3E3E', color: '#fff' }}
@@ -33,7 +33,7 @@ const contact = () => {
                   <input
                     type="email"
                     style={{ backgroundColor: '#3E3E3E !important' }}
-                    class="border-0 px-3 py-3 rounded text-sm shadow w-full
+                    class="border-0 px-3 py-3  text-sm shadow w-full
                     bg-gray-600 placeholder-white text-white outline-none focus:bg-gray-500"
                     placeholder="Email"
                     style={{ transition: 'all 0.15s ease 0s', backgroundColor: '#3E3E3E', color: '#fff' }}
@@ -41,7 +41,7 @@ const contact = () => {
                 </div>
                 <input
                   type="text"
-                  class="mt-2 border-0 px-3 py-3 rounded text-sm shadow w-full
+                  class="mt-2 border-0 px-3 py-3 text-sm shadow w-full
                     bg-gray-600 placeholder-white text-gray-800 outline-none focus:bg-gray-500"
                   placeholder="Company"
                   style={{ transition: 'all 0.15s ease 0s', backgroundColor: '#3E3E3E', color: '#fff' }}

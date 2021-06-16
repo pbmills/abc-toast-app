@@ -17,7 +17,7 @@ const Banner = () => {
               <p className="ml-4 mr-10 text-white  text-3xl ">silverstripe 4</p>
             </div>
             <div className="mt-10">
-              <button className="py-3 px-7 uppercase tracking-wide text-sm border border-white shadow-md text-white bg-transparent hover:bg-white hover:text-black ">
+              <button className="pt-3 pb-1 px-7 uppercase tracking-wide text-sm border border-white shadow-md text-white bg-transparent hover:bg-white hover:text-black ">
                 Learn more
               </button>
             </div>
