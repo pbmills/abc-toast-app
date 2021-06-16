@@ -50,7 +50,7 @@ const contact = () => {
             </form>
             <div className="mt-10">
               <p className="text-white">
-                <button className="py-2 px-12 pb-6 uppercase tracking-wide text-sm border border-white shadow-md text-white bg-transparent hover:bg-white hover:text-black">
+                <button className="py-2 px-12 uppercase tracking-wide text-sm border border-white shadow-md text-white bg-transparent hover:bg-white hover:text-black">
                   Submit
                 </button>
               </p>
