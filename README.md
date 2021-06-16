@@ -1,17 +1,10 @@
 # Toast Single page App with TaiwindCSS and React
 
-This project has been hosted to Netlify [Project Demo](https://newzealandweatherapp.netlify.app/).
-
 ## Table of contents
 * [Instructions](#Instructions)
 
 
 ## Instructions
-
-First clone this repository.
-```bash
-$ git clone https://github.com/reachpriti12/NZ-Weather-App-react-tailwind.git
-```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 ```bash
